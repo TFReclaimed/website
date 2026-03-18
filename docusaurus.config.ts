@@ -49,6 +49,9 @@ const config: Config = {
                 content:
                     "titanfall, titanfall assault, titanfall frontline, server emulator, private server, apex legends",
             },
+            {
+                name: "darkreader-lock",
+            },
         ],
         colorMode: {
             respectPrefersColorScheme: true,
