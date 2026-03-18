@@ -2,6 +2,18 @@ import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
+function siteBaseUrl() {
+    if (process.env.NODE_ENV === "development") {
+        return "http://localhost:3000";
+    }
+
+    if (process.env.CF_PAGES_URL) {
+        return process.env.CF_PAGES_URL;
+    }
+
+    return "https://tfainternal.com";
+}
+
 const config: Config = {
     title: "TF Reclaimed",
     tagline: "Titanfall Assault and Frontline restoration project",
@@ -9,7 +21,7 @@ const config: Config = {
     future: {
         v4: true,
     },
-    url: "https://tfainternal.com",
+    url: siteBaseUrl(),
     baseUrl: "/",
     onBrokenLinks: "throw",
     i18n: {
