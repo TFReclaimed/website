@@ -62,6 +62,14 @@ const config: Config = {
                     "titanfall, titanfall assault, titanfall frontline, server emulator, private server, apex legends",
             },
             {
+                name: "description",
+                content: "Titanfall Assault and Frontline restoration project.",
+            },
+            {
+                name: "og:description",
+                content: "Titanfall Assault and Frontline restoration project.",
+            },
+            {
                 name: "darkreader-lock",
             },
         ],
