@@ -84,6 +84,12 @@ const config: Config = {
             },
             items: [
                 {
+                    type: "docSidebar",
+                    sidebarId: "sidebar",
+                    position: "left",
+                    label: "How To Play",
+                },
+                {
                     to: "/blog",
                     label: "Blog",
                     position: "left",
