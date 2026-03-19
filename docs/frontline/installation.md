@@ -31,7 +31,7 @@ This method is meant for developers.
 
 Before you begin, make sure you have:
 
-1. Downloaded and extracted the latest version of [FrontlinePatcher](https://github.com/TFInternal/FrontlinePatcher/releases).
+1. Downloaded and extracted the latest version of [FrontlinePatcher](https://github.com/TFReclaimed/FrontlinePatcher/releases).
 2. Installed [Apktool](https://apktool.org/docs/install).
 3. Installed [Java JDK](https://adoptium.net/temurin/releases).
 4. Installed [Android Studio](https://developer.android.com/studio), with Android SDK Build-Tools installed via SDK Manager.
