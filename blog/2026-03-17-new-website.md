@@ -5,6 +5,6 @@ title: New Website
 
 Welcome to the new TF Reclaimed website!
 
-<!-- truncate -->
+{/* truncate */}
 
 test
