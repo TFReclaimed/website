@@ -1,0 +1,26 @@
+# Android
+
+## Requirements
+
+- Android 5.1 (Lollipop) or higher
+- At least 500 MB of free storage space
+
+## 1. Download the APK
+
+Get the latest Android APK by [clicking here](http://cdn-cf.tfflinternal.com/frontline/Frontline.apk).
+
+## 2. Install the APK
+
+![Open the APK file](./install1.jpg)
+
+Once downloaded, tap on the APK file to start the installation process.
+
+![Allow source in settings](./install2.jpg)
+![Allow source in settings](./install3.jpg)
+
+If you haven't already, you may be prompted to allow installation from unknown sources.
+To do this, follow the prompts to enable this setting in your device's settings.
+
+![Hit install](./install4.jpg)
+
+Once you've allowed installation from unknown sources, simply go back and the installation process should begin.

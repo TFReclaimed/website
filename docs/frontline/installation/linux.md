@@ -1,0 +1,41 @@
+# Linux
+
+## Requirements
+
+- Linux distribution with support for AppImages (Any modern distribution)
+- At least 500 MB of free storage space
+- 64-bit processor
+- OpenGL 3.2 compatible graphics card
+- Xwayland or X11 display server (Native Wayland support isn't available yet)
+
+## 1. Download the AppImage
+
+Get the latest AppImage by [clicking here](http://cdn-cf.tfflinternal.com/frontline/Frontline.AppImage).
+
+## 2. Make the AppImage executable
+
+Once the download is complete, you need to make the AppImage executable.
+There are several ways to do this:
+
+### Using the file manager
+
+1. Right click on the downloaded AppImage file and select "Properties".
+2. Go to the "Permissions" tab.
+3. Check the box that says "Allow executing file as program" or similar.
+
+### Using the terminal
+
+Open a terminal and navigate to the directory where the AppImage is located, then run the following command:
+
+```bash
+chmod +x Frontline.AppImage
+```
+
+## 3. Install the AppImage
+
+AppImages are designed to be portable and do not require installation.
+However, it is still convenient to have them properly integrated into your system.
+
+You should install [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) to manage your AppImages and integrate them into your system.
+AppImageLauncher will automatically move the AppImage to a central location (e.g., `~/Applications`) and create desktop entries for easy access.
+See the AppImageLauncher documentation for installation instructions.

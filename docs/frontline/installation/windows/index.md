@@ -1,0 +1,25 @@
+# Windows
+
+## Requirements
+
+- Windows 7 or higher
+- At least 500 MB of free storage space
+- 64-bit processor
+- DX11 compatible graphics card
+
+## 1. Download the installer
+
+Get the latest Windows installer by [clicking here](http://cdn-cf.tfflinternal.com/frontline/Frontline-Setup.exe).
+
+## 2. Run the installer
+
+![Click on More info](./install1.png)
+![Click on Run anyway](./install2.png)
+
+Once downloaded, run the installer. You may see a warning about the app being from an unknown publisher.
+Click on "More info" and then "Run anyway" to proceed with the installation.
+
+![Click on Next](./install3.png)
+![Click on Install](./install4.png)
+
+Follow the prompts in the installer. You can change the installation location if you are running low on disk space.
