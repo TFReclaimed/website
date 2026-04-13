@@ -12,3 +12,9 @@ Get the latest macOS installer by [clicking here](http://cdn-cf.tfflinternal.com
 ## 2. Install the application
 
 Once downloaded, open the disk image and drag the Frontline application to your Applications folder.
+
+:::note
+
+If the application is blocked from opening, right click on it and select "Open".
+
+:::
