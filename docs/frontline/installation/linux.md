@@ -36,6 +36,7 @@ chmod +x Frontline.AppImage
 AppImages are designed to be portable and do not require installation.
 However, it is still convenient to have them properly integrated into your system.
 
-You should install [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) to manage your AppImages and integrate them into your system.
-AppImageLauncher will automatically move the AppImage to a central location (e.g., `~/Applications`) and create desktop entries for easy access.
-See the AppImageLauncher documentation for installation instructions.
+You should install [Gear Lever](https://flathub.org/en/apps/it.mijorus.gearlever) to manage your AppImages and integrate them into your system.
+Gear Lever will automatically move the AppImage to a central location (`~/AppImages`) and create desktop entries for easy access.
+
+Alternatively, you can install [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) which provides similar functionality.
