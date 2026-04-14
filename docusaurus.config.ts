@@ -89,7 +89,12 @@ const config: Config = {
                     type: "docSidebar",
                     sidebarId: "sidebar",
                     position: "left",
-                    label: "How To Play",
+                    label: "Docs",
+                },
+                {
+                    to: "/download",
+                    label: "Download",
+                    position: "left",
                 },
                 {
                     to: "/blog",
