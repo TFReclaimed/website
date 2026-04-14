@@ -18,7 +18,7 @@ This is not required but highly recommended.
 
 ## 2. Download the IPA
 
-Get the latest IPA by [clicking here](http://cdn-cf.tfflinternal.com/frontline/Frontline.ipa).
+Get the latest IPA by [clicking here](https://cdn-cf.tfflinternal.com/frontline/Frontline.ipa).
 
 ## 3. Install the IPA
 

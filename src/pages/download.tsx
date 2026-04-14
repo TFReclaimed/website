@@ -10,32 +10,32 @@ const platforms = [
         name: "Windows",
         description: "Windows 7 or higher.",
         downloadUrl:
-            "http://cdn-cf.tfflinternal.com/frontline/Frontline-Setup.exe",
+            "https://cdn-cf.tfflinternal.com/frontline/Frontline-Setup.exe",
         downloadLabel: "Download .exe",
     },
     {
         name: "Mac",
         description: "macOS 10.14 (Mojave) or higher.",
-        downloadUrl: "http://cdn-cf.tfflinternal.com/frontline/Frontline.dmg",
+        downloadUrl: "https://cdn-cf.tfflinternal.com/frontline/Frontline.dmg",
         downloadLabel: "Download .dmg",
     },
     {
         name: "Linux",
         description: "Just use something modern.",
         downloadUrl:
-            "http://cdn-cf.tfflinternal.com/frontline/Frontline.AppImage",
+            "https://cdn-cf.tfflinternal.com/frontline/Frontline.AppImage",
         downloadLabel: "Download AppImage",
     },
     {
         name: "Android",
         description: "Android 5.1 (Lollipop) or higher.",
-        downloadUrl: "http://cdn-cf.tfflinternal.com/frontline/Frontline.apk",
+        downloadUrl: "https://cdn-cf.tfflinternal.com/frontline/Frontline.apk",
         downloadLabel: "Download APK",
     },
     {
         name: "iOS",
         description: "iOS 12 or higher.",
-        downloadUrl: "http://cdn-cf.tfflinternal.com/frontline/Frontline.ipa",
+        downloadUrl: "https://cdn-cf.tfflinternal.com/frontline/Frontline.ipa",
         downloadLabel: "Download IPA",
     },
 ] as const;

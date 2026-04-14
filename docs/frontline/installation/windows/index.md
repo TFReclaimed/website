@@ -9,7 +9,7 @@
 
 ## 1. Download the installer
 
-Get the latest Windows installer by [clicking here](http://cdn-cf.tfflinternal.com/frontline/Frontline-Setup.exe).
+Get the latest Windows installer by [clicking here](https://cdn-cf.tfflinternal.com/frontline/Frontline-Setup.exe).
 
 ## 2. Run the installer
 

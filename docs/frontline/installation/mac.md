@@ -7,7 +7,7 @@
 
 ## 1. Download the disk image
 
-Get the latest macOS installer by [clicking here](http://cdn-cf.tfflinternal.com/frontline/Frontline.dmg).
+Get the latest macOS installer by [clicking here](https://cdn-cf.tfflinternal.com/frontline/Frontline.dmg).
 
 ## 2. Install the application
 

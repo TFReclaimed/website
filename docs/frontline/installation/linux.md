@@ -10,7 +10,7 @@
 
 ## 1. Download the AppImage
 
-Get the latest AppImage by [clicking here](http://cdn-cf.tfflinternal.com/frontline/Frontline.AppImage).
+Get the latest AppImage by [clicking here](https://cdn-cf.tfflinternal.com/frontline/Frontline.AppImage).
 
 ## 2. Make the AppImage executable
 

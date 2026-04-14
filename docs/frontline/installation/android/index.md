@@ -7,7 +7,7 @@
 
 ## 1. Download the APK
 
-Get the latest Android APK by [clicking here](http://cdn-cf.tfflinternal.com/frontline/Frontline.apk).
+Get the latest Android APK by [clicking here](https://cdn-cf.tfflinternal.com/frontline/Frontline.apk).
 
 ## 2. Install the APK
 
