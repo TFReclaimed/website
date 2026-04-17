@@ -15,6 +15,6 @@ Once downloaded, open the disk image and drag the Frontline application to your 
 
 :::note
 
-If the application is blocked from opening, right click on it and select "Open".
+If the application is blocked from opening, right click (secondary click/control click) on it and select "Open".
 
 :::
