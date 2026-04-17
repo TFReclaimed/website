@@ -74,7 +74,7 @@ export default function Download(): ReactNode {
 
                             <div className={styles.actions}>
                                 <Link
-                                    className="button button--primary button--lg button--block"
+                                    className="button button--primary button--lg button--block text--truncate"
                                     href={platform.downloadUrl}
                                 >
                                     {platform.downloadLabel}
