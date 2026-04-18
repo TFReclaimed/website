@@ -18,3 +18,5 @@ Once downloaded, open the disk image and drag the Frontline application to your 
 If the application is blocked from opening, right click (secondary click/control click) on it and select "Open".
 
 :::
+
+![Right click on the application and select "Open"](./install1.png)
