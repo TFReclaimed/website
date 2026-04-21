@@ -57,6 +57,14 @@ export default function Download(): ReactNode {
                         </Link>
                         .
                     </p>
+                    <p className={styles.version}>
+                        <span>
+                            <strong>Base game version:</strong> 1.0.17334
+                        </span>
+                        <span>
+                            <strong>Patches version:</strong> 26.4.1
+                        </span>
+                    </p>
                 </div>
 
                 <section
