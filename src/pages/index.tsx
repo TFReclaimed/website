@@ -19,6 +19,12 @@ function HomepageHeader() {
                 <div className={styles.buttons}>
                     <Link
                         className="button button--secondary button--lg"
+                        to="/download"
+                    >
+                        Play Frontline
+                    </Link>
+                    <Link
+                        className="button button--secondary button--lg"
                         to="https://discord.gg/TF6PUR6uHv"
                     >
                         Join our Discord
