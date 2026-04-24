@@ -152,6 +152,11 @@ const config: Config = {
                 },
             ],
         },
+        announcementBar: {
+            id: "frontline_release",
+            content:
+                "<b><a href='/blog/frontline-release'>Titanfall Frontline has re-released!</a></b> 🎉",
+        },
         prism: {
             theme: prismThemes.github,
             darkTheme: prismThemes.dracula,
