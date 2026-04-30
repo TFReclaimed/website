@@ -62,7 +62,7 @@ export default function Download(): ReactNode {
                             <strong>Base game version:</strong> 1.0.17334
                         </span>
                         <span>
-                            <strong>Patches version:</strong> 26.4.2
+                            <strong>Patches version:</strong> 26.4.3
                         </span>
                     </p>
                 </div>
