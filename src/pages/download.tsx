@@ -5,7 +5,24 @@ import Heading from "@theme/Heading";
 
 import styles from "./download.module.css";
 
-const platforms = [
+type PlatformCard = {
+    name: string;
+    description: string;
+    downloadUrl: string;
+    downloadLabel: string;
+    isBeta?: boolean;
+};
+
+const platforms: PlatformCard[] = [
+    {
+        name: "Web Browser",
+        description:
+            "Play in your browser. Please note that some features and platforms do not work at the moment.",
+        downloadUrl:
+            "https://cdn-cf.tfflinternal.com/frontline/WebGL/Frontline/index.html",
+        downloadLabel: "Play in Browser",
+        isBeta: true,
+    },
     {
         name: "Windows",
         description: "Windows 7 or higher.",
@@ -38,7 +55,7 @@ const platforms = [
         downloadUrl: "https://cdn-cf.tfflinternal.com/frontline/Frontline.ipa",
         downloadLabel: "Download IPA",
     },
-] as const;
+];
 
 export default function Download(): ReactNode {
     return (
@@ -73,9 +90,16 @@ export default function Download(): ReactNode {
                 >
                     {platforms.map((platform) => (
                         <article key={platform.name} className={styles.card}>
-                            <Heading as="h2" className={styles.cardTitle}>
-                                {platform.name}
-                            </Heading>
+                            <div className={styles.titleWrapper}>
+                                <Heading as="h2" className={styles.cardTitle}>
+                                    {platform.name}
+                                </Heading>
+                                {platform.isBeta && (
+                                    <span className="badge badge--danger">
+                                        Beta
+                                    </span>
+                                )}
+                            </div>
                             <p className={styles.description}>
                                 {platform.description}
                             </p>
