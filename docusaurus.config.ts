@@ -16,7 +16,7 @@ function siteBaseUrl() {
 
 const config: Config = {
     title: "TF Reclaimed",
-    tagline: "Titanfall Assault and Frontline restoration project",
+    tagline: "Titanfall: Assault and Titanfall: Frontline restoration project",
     favicon: "img/favicon.ico",
     future: {
         v4: true,
