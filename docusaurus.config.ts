@@ -7,10 +7,6 @@ function siteBaseUrl() {
         return "http://localhost:3000";
     }
 
-    if (process.env.CF_PAGES_URL) {
-        return process.env.CF_PAGES_URL;
-    }
-
     return "https://tfainternal.com";
 }
 
