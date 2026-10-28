@@ -61,11 +61,13 @@ const config: Config = {
             },
             {
                 name: "description",
-                content: "Titanfall Assault and Frontline restoration project.",
+                content:
+                    "Titanfall: Assault and Titanfall: Frontline restoration project.",
             },
             {
                 name: "og:description",
-                content: "Titanfall Assault and Frontline restoration project.",
+                content:
+                    "Titanfall: Assault and Titanfall: Frontline restoration project.",
             },
             {
                 name: "darkreader-lock",
@@ -151,7 +153,7 @@ const config: Config = {
         announcementBar: {
             id: "frontline_release",
             content:
-                "<b><a href='/blog/frontline-release'>Titanfall Frontline has re-released!</a></b> 🎉",
+                "<b><a href='/blog/frontline-release'>Titanfall: Frontline has re-released!</a></b> 🎉",
         },
         prism: {
             theme: prismThemes.github,
